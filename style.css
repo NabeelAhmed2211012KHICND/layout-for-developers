@@ -1,0 +1,158 @@
+.Content {
+    height: 800px;
+background-color: rgb(92, 255, 179);
+    justify-content: space-around;
+
+    display: flex;
+
+
+}
+
+.MainContainer nav {
+    height: 70px;  
+     display: flex;
+    background-color: rgb(7, 126, 3);
+justify-content:space-between;
+padding: 10px;
+
+
+}
+
+
+
+.account{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+
+}
+
+.logo{
+
+    align-items: center;
+
+    justify-content: center;
+display: flex;
+
+
+}
+.account .fa{
+
+position: relative;
+top: 10px;
+    
+}
+
+
+
+.logo p{
+
+padding-left: 15px;
+
+}
+
+
+.Left {
+    
+    padding-left:  20px;
+    padding-top: 10px;
+
+    width: 25%;
+ 
+    
+
+}
+
+
+
+.Center {
+    width: 50%;
+
+
+
+}
+
+.Center img {
+    width: 300px;
+    height: 350px;
+}
+
+.Center p {
+    padding: 10px;
+
+}
+
+section.first {
+background-color: white;
+    padding: 10px;
+    display: flex;margin-top: 25px;
+
+
+    border-radius: 4px;
+
+}
+
+
+section.second {
+
+    border-radius: 4px;
+
+margin-top: 25px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+
+
+}
+
+
+
+.Right {
+padding-top: 10px;
+display: flex;
+flex-direction: column;
+text-align: center;
+    width: 25%;
+
+}
+
+
+.Right .ist{
+
+
+
+width: 50px;
+height: 50px;
+
+}
+
+
+section.rabbit1 {
+display: flex;
+
+
+}
+
+
+section.rabbit1 img {
+
+    float: left;
+    
+    
+
+}
+
+
+
+
+section.rabbit1 p {
+    font-size: 10px;
+
+
+}
+
+
+
